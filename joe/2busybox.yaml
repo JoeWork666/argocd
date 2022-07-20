@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: busybox
-  namespace: argocd
+  namespace: joe
   labels:
     name: busybox
 spec:
